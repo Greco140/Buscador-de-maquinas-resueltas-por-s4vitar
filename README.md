@@ -1,1 +1,4 @@
-Herramienta desarrollada en la Academia Hack4u de Marcelo Vázquez (Aka. S4vitar) durante el curso de Introducción a Linux para buscar las máquinas resueltas en la plataforma Hack The Box por dicho profesor.
+Tool developed at Marcelo Vázquez's Hack4u Academy (Aka. S4vitar) during the Introduction to Linux course to search for machines solved on the Hack The Box platform by said professor.
+
+Use:
+
