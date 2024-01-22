@@ -9,7 +9,22 @@ You can find the original website tool from S4vitar in the next link:
 
 ## Use:
 
-The first thing you should do is download the script called 'htbmachines.sh' located in this repository. Once done, you can go to the folder where you downloaded it and start it with the following syntax:
+The first thing you should do is clone this repository with the following command:
+
+<code>git clone https://github.com/Greco140/Buscador-de-maquinas-resueltas-por-s4vitar.git</code>
+
+
+Once done, you can go to the folder with:
+
+<code>cd Buscador-de-maquinas-resueltas-por-s4vitar/</code>
+
+
+Now, give it permission to execute with:
+
+<code>chmod +x htbmachines.sh</code>
+
+
+Now start it with the following syntax:
 
 <code>./htbmachines.sh</code>
 
